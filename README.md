@@ -1,2 +1,2 @@
 
-This is my first attempt to use git
+This is super coll feature
